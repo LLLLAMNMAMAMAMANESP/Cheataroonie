@@ -325,47 +325,47 @@ image.Rounding = 0
 
 textTimer.Position = Vector2.new(815, 587.219)
 textTimer.Size = 18
-textTimer.Font = Drawing.Fonts.System
+textTimer.Font = Drawing.Fonts.UI
 textTimer.Text = "Waiting for loud"
 textTimer.Visible = true
 
 
 text1.Position = Vector2.new(816, 633.175)
 text1.Size = 18
-text1.Font = Drawing.Fonts.System
+text1.Font = Drawing.Fonts.UI
 text1.Text = "Current Wave Deaths"
 text1.Visible = true
 
 
 textCount.Position = Vector2.new(816, 652)
 textCount.Size = 18
-textCount.Font = Drawing.Fonts.System
+textCount.Font = Drawing.Fonts.UI
 textCount.Text = "0"
 textCount.Visible = true
 
 text2.Position = Vector2.new(816, 693.837)
 text2.Size = 18
-text2.Font = Drawing.Fonts.System
+text2.Font = Drawing.Fonts.UI
 text2.Text = "Current Wave"
 text2.Visible = true
 
 
 textWave.Position = Vector2.new(816, 715)
 textWave.Size = 18
-textWave.Font = Drawing.Fonts.System
+textWave.Font = Drawing.Fonts.UI
 textWave.Text = "1"
 textWave.Visible = true
 
 
 text3.Position = Vector2.new(816, 754.5)
 text3.Size = 18
-text3.Font = Drawing.Fonts.System
+text3.Font = Drawing.Fonts.UI
 text3.Text = "Total Deaths"
 text3.Visible = true
 
 textTotal.Position = Vector2.new(816, 775)
 textTotal.Size = 18
-textTotal.Font = Drawing.Fonts.System
+textTotal.Font = Drawing.Fonts.UI
 textTotal.Text = "0"
 textTotal.Visible = true
 
