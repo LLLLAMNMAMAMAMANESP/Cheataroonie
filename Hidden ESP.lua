@@ -35,6 +35,7 @@ local specialNPCs = {
 	["SWAT"] = Color3.new(0, 0, 0),
 	["TRU"] = Color3.new(0, 0, 0),
 	["ETF"] = Color3.new(0, 0, 0),
+	["Onyx Unit"] = Color3.new(0, 0, 0),
 	["SC Soldier"] = Color3.new(0, 0, 0),
 	["SC Shredder"] = Color3.new(0.5, 0.5, 0.5),
 	["Juggernaut"] = Color3.new(0.5, 0.5, 0.5),
